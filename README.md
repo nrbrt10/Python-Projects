@@ -1,3 +1,3 @@
 # Python-Projects
 
-Various python projects and data analysis
+- Currently working on improving code cleanliness.
