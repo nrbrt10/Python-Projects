@@ -1,3 +1,3 @@
-# Python-Project LaHaus Web Scraper
+# Python-Projects
 
 Various python projects and data analysis
