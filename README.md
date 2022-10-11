@@ -1,6 +1,7 @@
 # Python-Projects
 
 - Currently working on improving code cleanliness.
+- Building my first ML model.
 
 In this repository you'll find:
 
